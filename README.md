@@ -59,3 +59,7 @@ Sonuçlar, XGBoost modelinin diğer modellere kıyasla daha düşük RMSE ürett
 - R
 - Makine Öğrenmesi
 - Regresyon Analizi
+
+## 📊 Model Performans Karşılaştırması
+
+![Model Performance](results/model_performance.png)
