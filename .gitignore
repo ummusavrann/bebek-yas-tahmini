@@ -1,0 +1,17 @@
+# Veri dosyaları
+data/
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+
+# Notebook checkpoints
+.ipynb_checkpoints/
